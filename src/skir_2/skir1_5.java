@@ -17,7 +17,7 @@ public class skir1_5 {
 	public static void main(String[] args) 
 	{
 		
-		random_digit();
+	random_digit();
 
 }
 }
